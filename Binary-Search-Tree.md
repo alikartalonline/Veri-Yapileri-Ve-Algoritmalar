@@ -1,11 +1,7 @@
 # <strong> Veri Yapileri Ve Algoritmalar "InsertionSort" Sorular-3:
 <br>
 
-## <strong> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
-
-<br>
-
-### dizisinin Binary-Search-Tree aşamalarını yazınız:
+## <strong> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız:
 <br>
 
 ```
