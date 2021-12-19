@@ -12,7 +12,7 @@
 <br>
 <hr>
 
-## ["Proje 2" için tıklayınız]()
+## ["Proje 2" için tıklayınız](https://github.com/alikartalonline/Veri-Yapileri-Ve-Algoritmalar-InsertionSort/blob/main/MergeSort.md)
 <br>
 
 ```
